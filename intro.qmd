@@ -1,0 +1,3 @@
+# Introduction
+
+This book is a study work to Probability General Exam. This book was based in @PResnick. 
